@@ -1,0 +1,6 @@
+[submodule "cw-ai"]
+	path = cw-ai
+	url = https://github.com/dicksnuob/ScotlandYardAi
+[submodule "cw-model"]
+	path = cw-model
+	url = https://github.com/AsinineJoeUoB/Scotland-Yard-2-Electric-Boogaloo
